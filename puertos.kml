@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="_3.4.3.4.puertos_ont_a_view_1" id="_3.4.3.4.puertos_ont_a_view_1">
+            <SimpleField type="int" name="gid"/>
+            <SimpleField type="string" name="provincia"/>
+            <SimpleField type="string" name="nombre"/>
+            <SimpleField type="string" name="caracteristica"/>
+        </Schema>
+        <Folder>
+            <name>_3.4.3.4.puertos_ont_a_view</name>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">3</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">SIDERAR</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.158358,-33.358083</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">4</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">PTO MARTINS - ASTILLERO</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.060278,-33.443722</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">5</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">BUNGE RAMALLO</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.03875,-33.45375</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">6</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">XSTORAGE</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.027361,-33.458083</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">8</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">COOPERATIVA AGRICOLA RAMALLO</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.997878,-33.476036</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">10</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">ARENERA DEL LITORAL</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.633639,-33.704611</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">11</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">PAPEL PRENSA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.620222,-33.718</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">12</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">DELTA DOCK</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.186139,-33.960417</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">13</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">MOLCA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.126611,-34.017944</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aa9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">14</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">FAPLAC</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.046194,-34.044861</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aaa">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">15</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">VITCO</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.038883,-34.052331</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aab">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">16</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">TERMINAL ZARATE</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.034317,-34.066267</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aac">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">17</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">MULTIPUERTO S.A.</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.029764,-34.071056</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aad">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">18</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">PIAPSA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.987903,-34.109764</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aae">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">19</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">SIDERCA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.975611,-34.148153</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aaf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">20</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">RHASA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.933194,-34.150833</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">21</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">CARBOCLOR</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.937,-34.150931</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">22</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">MARIPASA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.940861,-34.151831</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">23</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">NAVIERA LODJA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.942189,-34.15235</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">24</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">EUROAMERICA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.965528,-34.153</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">25</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">ESSO CAMPANA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.951833,-34.154167</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">27</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">TAGSA ODFJEL TERMINALS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.919694,-34.156278</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">28</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">REGASIFICADOR (GNL) UTE ( ENARSA - YPF ) ESCOBAR</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.761844,-34.242558</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">36</SimpleData>
+                        <SimpleData name="provincia">CHACO</SimpleData>
+                        <SimpleData name="nombre">IATE S.A. ELEVADOR BARRANQUERAS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.911944,-27.474722</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">38</SimpleData>
+                        <SimpleData name="provincia">CHACO</SimpleData>
+                        <SimpleData name="nombre">YPF BARRANQUERAS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.930833,-27.500258</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ab9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">39</SimpleData>
+                        <SimpleData name="provincia">CHACO</SimpleData>
+                        <SimpleData name="nombre">CARGILL SACI ( BUYATTI SAICA)</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.935069,-27.512569</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aba">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">40</SimpleData>
+                        <SimpleData name="provincia">CHACO</SimpleData>
+                        <SimpleData name="nombre">SHELL PUERTO VILELAS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.935222,-27.515056</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5abb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">41</SimpleData>
+                        <SimpleData name="provincia">CHACO</SimpleData>
+                        <SimpleData name="nombre">ACA PUERTO VILELAS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.918889,-27.531472</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5abc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">49</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">COOP.AGROPECUARIA LA PAZ LTD</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.650625,-30.741361</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5abd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">50</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">EL MANA PUERTO BUEY S.A.</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.814444,-30.968417</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5abe">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">51</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">PUERTO HERNANDARIAS S.A.</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.987556,-31.219389</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5abf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">52</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">PIEDRAS BLANCAS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.987556,-31.219389</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">54</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">COOP. LA GANADERA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.098056,-31.384778</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">55</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">BAJADA GRANDE</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.573261,-31.709003</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">57</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">DIAMANTE S.A.</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.646042,-32.058875</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">61</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">DEL GUAZU S.A.</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.885319,-33.90175</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">65</SimpleData>
+                        <SimpleData name="provincia">SANTA CRUZ</SimpleData>
+                        <SimpleData name="nombre">BOYA Y TERMINAL DE CALETA OLIVIA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-67.513611,-46.436389</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">2</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">CENTRAL TÉRMICA SAN NICOLÁS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.172436,-33.353061</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">74</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">RENOVA S.A</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.780944,-32.583444</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">77</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">BARCAZA ALIANZA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.747806,-32.625972</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">78</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">MINERA ALUMBRERA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.74375,-32.648167</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ac9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">79</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">TERMINAL 6</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.738028,-32.653694</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aca">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">80</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">ALTO PARANA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.68225,-32.661083</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5acb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">81</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">CARGILL S.A.C.I</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.729014,-32.665861</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5acc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">82</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">MOSAIC</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.727722,-32.668764</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5acd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">83</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">PETROBRAS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.724361,-32.686944</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ace">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">84</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">NIDERA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.723439,-32.694903</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5acf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">85</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">ALFRED TOEPFER</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.725347,-32.708097</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">86</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">BUNGE</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.72525,-32.711694</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">87</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">YPF CHACABUCO</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.725806,-32.719861</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">88</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">ESSO</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.727306,-32.725806</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">89</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">PETROBRAS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.727128,-32.73305</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">90</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">ACA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.726597,-32.735278</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">91</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">ICI</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.723028,-32.766167</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">92</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">VICENTIN</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.720764,-32.772556</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">93</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">MOLINOS RIO DE LA PLATA</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.719603,-32.774906</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">94</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">CENTRAL TERMICA SORRENTO</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.676528,-32.904361</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ad9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">96</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">CARGILL VILLA GOB. GALVEZ</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.579347,-33.038306</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ada">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">97</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">CARGILL PUNTA ALVEAR</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.572958,-33.048514</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5adb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">98</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">LOUIS DREYFUS GENERAL LAGOS</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.512194,-33.12025</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5adc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">99</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">ALFRED TOPFER</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.508583,-33.125583</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5add">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">100</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">SHELL ARROYO SECO</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.502361,-33.131111</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ade">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">102</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">ACINDAR</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.296867,-33.245722</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5adf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">103</SimpleData>
+                        <SimpleData name="provincia">TIERRA DEL FUEGO, ANT?RTIDA E ISLAS DEL ATL?NTICO SUR</SimpleData>
+                        <SimpleData name="nombre">YPF MUELLE ORION</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-68.289042,-54.805497</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">1</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">SAN NICOL?S</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.175139,-33.351389</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">7</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">RAMALLO MUNICIPAL</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.997878,-33.476036</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">9</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">SAN PEDRO</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.639361,-33.685681</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">26</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">CAMPANA MUELLE PROVINCIAL</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.955886,-34.155144</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">29</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">DOCK SUD</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.350114,-34.635078</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">30</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">LA PLATA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-57.889172,-34.851378</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">31</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">MAR DEL PLATA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-57.517972,-38.038861</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">32</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">QUEQUEN</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.713472,-38.571333</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">33</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">BAHIA BLANCA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-62.301114,-38.783564</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5ae9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">34</SimpleData>
+                        <SimpleData name="provincia">BUENOS AIRES</SimpleData>
+                        <SimpleData name="nombre">ROSALES</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-62.071647,-38.924847</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aea">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">35</SimpleData>
+                        <SimpleData name="provincia">CABA</SimpleData>
+                        <SimpleData name="nombre">BUENOS AIRES</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.364047,-34.595514</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aeb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">37</SimpleData>
+                        <SimpleData name="provincia">CHACO</SimpleData>
+                        <SimpleData name="nombre">BARRANQUERAS</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.923269,-27.487553</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aec">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">42</SimpleData>
+                        <SimpleData name="provincia">CHUBUT</SimpleData>
+                        <SimpleData name="nombre">PUERTO MADRYN</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-65.018806,-42.735361</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aed">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">43</SimpleData>
+                        <SimpleData name="provincia">CHUBUT</SimpleData>
+                        <SimpleData name="nombre">RAWSON</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-65.048525,-43.341756</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aee">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">44</SimpleData>
+                        <SimpleData name="provincia">CHUBUT</SimpleData>
+                        <SimpleData name="nombre">CAMARONES</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-65.709083,-44.802194</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aef">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">45</SimpleData>
+                        <SimpleData name="provincia">CHUBUT</SimpleData>
+                        <SimpleData name="nombre">COMODORO RIVADAVIA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-67.46,-45.8625</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">46</SimpleData>
+                        <SimpleData name="provincia">CORRIENTES</SimpleData>
+                        <SimpleData name="nombre">CORRIENTES PUERTO PROVINCIAL</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.836306,-27.46075</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">47</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">PUERTO MARQUEZ</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.635444,-30.726222</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">48</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">PUERTO LA PAZ</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.639258,-30.732736</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">53</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">PUERTO HERNANDARIAS PROVINCIAL</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.9923,-31.22795</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">56</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">PARANA MUELLE PROVINCIAL</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.518853,-31.718472</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">58</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">DIAMANTE PUERTO PROVINCIAL</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.646042,-32.058875</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">59</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">CONCEPCION DEL URUGUAY</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.222453,-32.487558</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">60</SimpleData>
+                        <SimpleData name="provincia">ENTRE RIOS</SimpleData>
+                        <SimpleData name="nombre">IBICUY</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.178953,-33.758881</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">62</SimpleData>
+                        <SimpleData name="provincia">FORMOSA</SimpleData>
+                        <SimpleData name="nombre">FORMOSA PUERTO PROVINCIAL</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-58.162056,-26.181556</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5af9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">63</SimpleData>
+                        <SimpleData name="provincia">R?O NEGRO</SimpleData>
+                        <SimpleData name="nombre">SAN ANTONIO ESTE</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-64.888722,-40.796611</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5afa">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">64</SimpleData>
+                        <SimpleData name="provincia">R?O NEGRO</SimpleData>
+                        <SimpleData name="nombre">PUNTA COLORADA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-65.006833,-41.6975</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5afb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">73</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">CENTRAL TERMOELÉCTRICA JOSÉ DE SAN MARTÍN</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.786361,-32.577139</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5afc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">76</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">NOBLE TIMBÚES</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.762722,-32.603722</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5afd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">75</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">LDC TIMBÚES</SimpleData>
+                        <SimpleData name="caracteristica">Privado</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.769833,-32.596833</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5afe">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">66</SimpleData>
+                        <SimpleData name="provincia">SANTA CRUZ</SimpleData>
+                        <SimpleData name="nombre">CALETA PAULA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-67.494486,-46.471172</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5aff">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">67</SimpleData>
+                        <SimpleData name="provincia">SANTA CRUZ</SimpleData>
+                        <SimpleData name="nombre">DESEADO</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-65.905583,-47.755639</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5b00">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">68</SimpleData>
+                        <SimpleData name="provincia">SANTA CRUZ</SimpleData>
+                        <SimpleData name="nombre">SAN JULIAN</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-67.718597,-49.300117</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5b01">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">69</SimpleData>
+                        <SimpleData name="provincia">SANTA CRUZ</SimpleData>
+                        <SimpleData name="nombre">PUNTA QUILLA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-68.404917,-50.117939</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5b02">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">70</SimpleData>
+                        <SimpleData name="provincia">SANTA CRUZ</SimpleData>
+                        <SimpleData name="nombre">PUNTA  LOYOLA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-69.019067,-51.607186</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5b03">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">71</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">RECONQUISTA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-59.577847,-29.232778</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5b04">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">72</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">SANTA FE</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.701856,-31.6481</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5b05">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">95</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">ROSARIO</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.618172,-32.975772</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5b06">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">101</SimpleData>
+                        <SimpleData name="provincia">SANTA FE</SimpleData>
+                        <SimpleData name="nombre">VILLA CONSTITUCION</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-60.328333,-33.220708</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="_3.4.3.4.puertos_ont_a_view.fid-52d31cf5_195a45dd469_5b07">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#_3.4.3.4.puertos_ont_a_view_1">
+                        <SimpleData name="gid">104</SimpleData>
+                        <SimpleData name="provincia">TIERRA DEL FUEGO, ANT?RTIDA E ISLAS DEL ATL?NTICO SUR</SimpleData>
+                        <SimpleData name="nombre">USHUAIA</SimpleData>
+                        <SimpleData name="caracteristica">Público</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>-68.295694,-54.810889</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
